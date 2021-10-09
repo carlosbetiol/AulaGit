@@ -1,0 +1,77 @@
+Algoritmo com Linguagem Natural
+Grupo: Jonas William, Taisis Marinelo, Carlos Betiol, Icaro Pablo
+
+1. Faça um algoritmo que mostre o passo a passo para trocar uma lâmpada queimada.
+
+Início
+- Colocar escada embaixo da lâmpada queimada.
+- Escolher uma lâmpada nova com a mesma potência.
+- Subir na escada.
+- Girar a lâmpada queimada no sentido anti horário até soltar.
+- Posicionar a lâmpada nova no bocal.
+- Girar a lâmpada nova no sentido horário.
+- Descer da escada.
+- Fechar e guardar a escada.
+Fim algoritmo
+
+
+
+
+
+2. Faça um algoritmo que mostre o passo a passo para passear com seu animal de estimação.
+
+Início Algoritmo_pet.
+- Pegar a guia do animal.
+- Chamar o animal.
+- Colocar a guia no animal.
+- Travar a guia.
+- Verificar se está bem presa.
+- Se encaminhar para a porta.
+- Sair com o pet.
+Fim algoritmo
+
+3. Faça um algoritmo que mostre o passo a passo para acessar um computador.
+
+Início
+- Verificar se o computador está ligado na tomada.
+- Buscar o botão de ligar/desligar.
+- Ao clicar no botão, esperar uma resposta positiva.
+- Selecionar o Sistema Operacional (Caso tenha mais de um).
+- Escolher o usuário.
+- Inserir a senha.
+- Esperar o Sistema carregar totalmente.
+- Iniciar o software que desejar.
+Fim algoritmo
+
+
+
+4. Faça um algoritmo que mostre o passo a passo para lavar um copo
+Início Algoritmo_Louça
+- Pegue o copo sujo.
+- Coloque na pia.
+- Pegue a bucha.
+- Abra a torneira.
+- Umedeça a bucha.
+- Pegue o detergente.
+- Coloque detergente na bucha.
+- Umedeça o copo.
+- Esfregue o copo com a bucha.
+- Deposite a bucha na pia.
+- Enxágue o copo.
+ -Desligue a torneira.
+- Coloque o copo para secar.
+Fim Algoritmo
+
+
+5. Faça um algoritmo que mostre o passo a passo para postar uma foto em um rede social
+
+Início
+- Abrir o aplicativo da rede social.
+- Iniciar uma postagem.
+- Clicar no botão de adicionar foto.
+- Buscar uma foto que agrade.
+- Caso não exista, abrir a câmera e tirar uma nova foto.
+- Selecionar a foto.
+- Escrever um texto descritivo da foto na posição adequada.
+- Finalizar o processo de postagem.
+Fim.
